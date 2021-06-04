@@ -1,5 +1,5 @@
 <?php
-echo "</pre>";
+echo "<pre>";
 echo "testing redis\n";
 try {
     $redis = new Redis();
